@@ -5,7 +5,6 @@
 
 Хувилбар 8.01 дээр суурилсан. 
 
-<p style="text-align: left;"><a href="https://github.com/necolas/normalize.css"><img
+<a href="https://github.com/necolas/normalize.css"><img
   src="https://necolas.github.io/normalize.css/logo.svg" alt="Normalize Logo"
-  width="80" height="80" align="right"></a>
-</p>
+  width="80" height="80" align="left"></a>
